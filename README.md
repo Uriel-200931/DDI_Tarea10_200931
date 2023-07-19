@@ -12,7 +12,7 @@ Consumo de api de clima OpenWeather a través de la Implementación de retrofit.
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre | **Tarea 10 *Temperatura por medio del Api* |
+| Nombre | **Tarea 10* Temperatura por medio del Api* |
 | Descripción  | Consumo de api de clima OpenWeather a través de la Implementación de retrofit.|
 |  Fecha de Carga | 21/06/23  |
 
